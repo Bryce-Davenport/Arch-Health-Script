@@ -37,7 +37,7 @@ sudo pacman -S --needed ufw iputils iproute2
 
 1. **Download or clone** this repository:
    ```bash
-   git clone https://github.com/<your-username>/arch-health-check.git
+   git clone https://github.com/<your-username>/arch-health-script.git
    cd arch-health-check
    ```
 
