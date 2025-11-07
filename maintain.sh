@@ -39,3 +39,8 @@ sudo ufw status
 echo "" 
 sudo ss -tulnp
 echo "" 
+
+echo "-----------[Networking Info]-----------" 
+echo ""
+echo "IP"
+ip -br addr show
