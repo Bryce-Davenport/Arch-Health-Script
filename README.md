@@ -38,17 +38,17 @@ sudo pacman -S --needed ufw iputils iproute2
 1. **Download or clone** this repository:
    ```bash
    git clone https://github.com/<your-username>/arch-health-script.git
-   cd arch-health-check
+   cd arch-health-script
    ```
 
 2. **Make the script executable:**
    ```bash
-   chmod +x arch-health.sh
+   chmod +x maintain.sh
    ```
 
 3. **Run it:**
    ```bash
-   ./arch-health.sh
+   ./maintain.sh
    ```
 
    The script can be run from **any directory** — it does not depend on its location.
