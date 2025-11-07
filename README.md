@@ -60,5 +60,5 @@ sudo pacman -S --needed ufw iputils iproute2
 
 ---
 
-**Author:** AlpineDev 
+**Author:** Bryce Davenport 
 **License:** MIT 
