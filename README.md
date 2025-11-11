@@ -93,7 +93,7 @@ sudo pacman -S --needed ufw iputils iproute2
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/arch-health-script.git
+   git clone https://github.com/Bryce-Davenport/arch-health-script.git
    cd arch-health-script
    ```
 
